@@ -1,6 +1,6 @@
 # Bilgisayar-destekli-uygulamalar
 
-Siirt Üniversitesi Gıda Mühendisliği Bölümü Bilgisayar Destekli Uygulamalar dersi sayfası
+Siirt Üniversitesi Gıda Mühendisliği Bölümü GMÜ106 Bilgisayar Destekli Uygulamalar dersi sayfası
 
 Bu derste bilgisayar destekli uygulamalar için Octave GNU programı anlatılmaktadır.
 
