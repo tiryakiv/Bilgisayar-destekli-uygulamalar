@@ -7,3 +7,7 @@ Bu derste bilgisayar destekli uygulamalar için Octave GNU programı anlatılmak
 GNU octave program kurulumu için: https://www.gnu.org/software/octave/index
 
 Derste işlediğimiz MatLab formül sayfası: https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf
+
+Paylaşılan kodların hepsi Octave programı uyumludur. 
+
+İletişim: tiryakiv@siirt.edu.tr
