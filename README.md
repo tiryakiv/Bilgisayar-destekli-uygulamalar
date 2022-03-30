@@ -12,4 +12,8 @@ Derste işlediğimiz MatLab formül sayfası: https://n.ethz.ch/~marcokre/downl
 
 Paylaşılan kodların hepsi Octave programı uyumludur. 
 
+Bu ders için online yardımcı kaynaklar:
+
+https://www.youtube.com/watch?v=qGiKv3-02vw
+
 İletişim: tiryakiv@siirt.edu.tr
