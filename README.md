@@ -6,7 +6,7 @@ Siirt Üniversitesi Gıda Mühendisliği Bölümü GMÜ106 Bilgisayar Destekli U
 
 Bu derste bilgisayar destekli uygulamalar için Octave GNU programı anlatılmaktadır.
 
-GNU octave program kurulumu için: https://www.gnu.org/software/octave/index
+GNU octave program kurulumu ve yardımcı dokümanlara şu linkten erişebilirsiniz: https://www.gnu.org/software/octave/index
 
 Derste işlediğimiz MatLab formül sayfası: https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf
 
