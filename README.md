@@ -10,12 +10,14 @@ GNU octave program kurulumu ve yardımcı dokümanlara şu linkten erişebilirsi
 
 Derste işlediğimiz MatLab formül sayfası: https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf
 
-Paylaşılan m uzantılı kodların hepsi Octave programı uyumludur ve dosya isminde hangi gün işlendiği belirtilmiştir. 
+Paylaşılan m uzantılı kodların hepsi Octave programı uyumludur ve dosya isminde hangi gün işlendiği belirtilmiştir.  ( Ay _ gün _ yıl formatında)
 
 
-Bu ders için online yardımcı kaynaklar:
+# Bu ders için online yardımcı kaynaklar:
 
-https://www.youtube.com/watch?v=qGiKv3-02vw
+Octave GNU dersi (35 video):  https://www.youtube.com/playlist?list=PLuR45MKVZJHiQDOdSzGcl7_S0jSOHn8o_
+
+MATLAB dersi:  https://www.youtube.com/watch?v=qGiKv3-02vw
 
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
