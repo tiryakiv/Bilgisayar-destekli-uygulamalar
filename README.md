@@ -2,7 +2,7 @@
 
 Siirt Üniversitesi Gıda Mühendisliği Bölümü GMÜ106 Bilgisayar Destekli Uygulamalar dersi sayfası
 
-(Computer aided applications using Octave)
+(Computer-aided applications using Octave)
 
 Bu derste bilgisayar destekli uygulamalar için Octave GNU programı anlatılmaktadır.
 
