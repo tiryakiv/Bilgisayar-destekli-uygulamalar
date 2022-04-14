@@ -15,9 +15,9 @@ Paylaşılan m uzantılı kodların hepsi Octave programı versiyon 6.4.0 uyumlu
 
 # Bu ders için online yardımcı kaynaklar:
 
-Octave GNU dersi (35 video):  https://www.youtube.com/watch?v=ZOs4eqoXPPA
+Mr. STEM EDU TV kanalı Octave GNU dersi (35 video):  https://www.youtube.com/watch?v=ZOs4eqoXPPA
 
-MATLAB dersi:  https://www.youtube.com/watch?v=qGiKv3-02vw
+Joseph Delgadillo'nun MATLAB dersi:  https://www.youtube.com/watch?v=qGiKv3-02vw
 
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
