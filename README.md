@@ -12,9 +12,6 @@ Derste işlediğimiz MatLab formül sayfası: https://n.ethz.ch/~marcokre/downl
 
 Paylaşılan m uzantılı kodların hepsi Octave programı versiyon 6.4.0 uyumludur ve dosya isminde hangi gün işlendiği belirtilmiştir.  ( Ay _ gün _ yıl formatında)
 
-# 17 Mayıs 2022'de teslim edilmesi gereken ödev:
-
-GNU octave'da tek satır şeklinde verilen bir sayı dizisinin geometrik ortalamasını hesaplayan bir fonksiyon yazın. Fonksiyon ismi geo_ortalama olsun. Fonksiyonu örnek bir dizi için çalıştırın. 
 
 # Bu ders için online yardımcı kaynaklar:
 
