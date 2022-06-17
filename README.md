@@ -12,11 +12,11 @@ Derste işlediğimiz MatLab formül sayfası: https://n.ethz.ch/~marcokre/downl
 
 Paylaşılan m uzantılı kodların hepsi Octave programı versiyon 6.4.0 uyumludur ve dosya isminde hangi gün işlendiği belirtilmiştir.  ( Ay _ gün _ yıl formatında)
 
-Octave'da diferansiyel denklem çözüm örneği: https://www.youtube.com/watch?v=6_tvM9b4sLQ&t=201s
-
 # Bu ders için online yardımcı kaynaklar:
 
 Mr. STEM EDU TV kanalı Octave GNU dersi (35 video):  https://www.youtube.com/watch?v=ZOs4eqoXPPA
+
+STEM EDU kanalaından Octave'da diferansiyel denklem çözüm örneği: https://www.youtube.com/watch?v=6_tvM9b4sLQ&t=201s
 
 Joseph Delgadillo'nun MATLAB dersi:  https://www.youtube.com/watch?v=qGiKv3-02vw
 
