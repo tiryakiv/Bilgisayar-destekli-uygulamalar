@@ -1,5 +1,5 @@
-% B›LG›SAYAR DESTEKL› UYGULAMALAR 22 MART 2022
-% sinus fonksiyonu grafii Áizelim
+% B√ùLG√ùSAYAR DESTEKL√ù UYGULAMALAR 22 MART 2022
+% sinus fonksiyonu grafiƒëi √ßizelim
 
 clear; clc; close all; 
 
