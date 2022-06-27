@@ -1,13 +1,13 @@
-# sembolik değişkenler 24 Mayıs 2022
+# sembolik deÄŸiÅŸkenler 24 MayÄ±s 2022
 
 clc; clear;
 pkg load symbolic
 
-syms x #sembolik değişken tanımı
+syms x #sembolik deÄŸiÅŸken tanÄ±mÄ±
 
-e=solve(x^2==9,x) #x^2-9=0 denkleminin çözümü
+e=solve(x^2==9,x) #x^2-9=0 denkleminin Ã§Ã¶zÃ¼mÃ¼
 
-# y=ax^2+bx+c denklemini çözelim
+# y=ax^2+bx+c denklemini Ã§Ã¶zelim
 clc;clear; 
 pkg load symbolic
 
@@ -19,7 +19,7 @@ syms x y
 f = solve(x^2 == 4, x + y == 1);
 
 
-% Aşağıdaki denklemlerin çözümünü sembolik değişkenler ile çözelim:
+% AÅŸaÄŸÄ±daki denklemlerin Ã§Ã¶zÃ¼mÃ¼nÃ¼ sembolik deÄŸiÅŸkenler ile Ã§Ã¶zelim:
 % 2x+y-z=1
 % 3x-y+2z=-1
 % x+y-z=4
