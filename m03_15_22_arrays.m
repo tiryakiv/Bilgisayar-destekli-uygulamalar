@@ -7,7 +7,7 @@ a = [1 2 3; 4 5 6; ...
 
 z = zeros(5,3)
 
-% matrislerle işlemler
+% matrislerle iÃ¾lemler
 a + 10
 
 sin(a)
@@ -32,12 +32,12 @@ sqrt(-1)
 
 c1 = [3+4i, 4+3j; -i, 10j];
 
-% Fahrenheitı Celciusa çevirme işlemi
+% FahrenheitÃ½ Celciusa Ã§evirme iÃ¾lemi
 f=35;
 c=(f-32)/1.8;
 x=strcat('Temperature is ', sprintf('%d',round(c)),'C')
 
-disp('Kod başarı ile çalıştı');
+disp('Kod baÃ¾arÃ½ ile Ã§alÃ½Ã¾tÃ½');
 
 
 fileID = fopen('vizeKonular.txt','r');
